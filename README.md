@@ -1,5 +1,7 @@
 # AtividadeJAVA
 Atividade da criação de produtos
+
+
                             O Arquivo Main.java
 No início do programa, para uma compreensão mais fácil do código, eu decidi substituir o modelo de leitura por parâmetro, que se assemelha
 a isso => objeto.setAtributo(leitura.nextTipoDoAtributo) pela criação de variáveis que possuem o mesmo nome e tipo dos respectivos atributos 
